@@ -1,0 +1,42 @@
+#logo {
+  width: 20%;
+  margin-left:40%;
+}
+
+#nav{
+  text-align:center;
+  background-color:rgb(251, 232, 200);
+  padding:10px;
+  margin-top:15px;
+}
+#nav p{
+  font-size: 15px;
+  color:rgb(13, 72, 57)
+}
+#nav p span{
+  font-weight:900;
+}
+#titolo h1{
+  text-align:center;
+}
+#titolo p {
+  text-align:center;
+}
+#immagineFocaccia{
+  width:30%;
+  border-radius:8px;
+  margin-left:35%;
+}
+#sottoImmagine{
+  text-align:center;
+  color:rgb(127, 139, 139)
+}
+#testoPagina {
+  margin-left:130px;
+}
+#testoPagina span{
+  color:red;
+}
+#testoPagina a{
+  color:rgb(39, 109, 107);
+}
